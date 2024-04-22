@@ -7,8 +7,10 @@ As a full-stack developer, specializing in building coding projects from the gro
 
    <p align="left">
       <a href="https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281">
+         <img src="linkedin-icon.png" alt="LinkedIn">
 <!--          <img alt="linkedIn followers" title="follow me on linkedin" src="https://custom-icon-badges.demolab.com/linkedin"/></a>  -->
       <a href="https://www.instagram.com/minevva._">
+         <img src="Instagram-icon.png" alt="Instagram">
 <!--          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/instagram"/></a>  -->
    </p>
 
