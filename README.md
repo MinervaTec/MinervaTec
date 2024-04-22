@@ -1,4 +1,5 @@
 # MinervaTec
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Welcome. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 **`Woman of great wisdom`**
 
