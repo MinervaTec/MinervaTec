@@ -4,9 +4,9 @@
 
 As a full-stack developer, specializing in building coding projects from the ground up. My passion lies in creating innovative and user-centric mobile applications for both iOS and Android platforms.With expertise in both front-end and back-end development. I am dedicated to staying updated with emerging technologies and best practices to remain at the forefront of the rapidly evolving mobile development landscape. Furthermore, I am committed to collaboration, contributing to open-source projects, and nurturing a culture of learning and innovation within the development community.
 
-   [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-   [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-   [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+   [![Instagram: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+   [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281/)](https://www.linkedin.com/in/thaianebraga/)
+   [![GitHub Thaiane](https://img.shields.io/github/followers/MinervaTec?label=follow&style=social)](https://github.com/MinervaTech)
    <p align="left">
       <a href="https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281">
           <img alt="LinkedIn" title="Let's connect" src="https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281color=%23E05D44&label=LinkedIn&logo=linkedI&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
