@@ -7,11 +7,9 @@ As a full-stack developer, specializing in building coding projects from the gro
 
    <p align="left">
       <a href="https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281">
-         <img src="linkedin-icon.png" alt="LinkedIn">
-<!--          <img alt="linkedIn followers" title="follow me on linkedin" src="https://custom-icon-badges.demolab.com/linkedin"/></a>  -->
+          <img alt="LinkedIn" title="Let's connect" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=Follow&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.instagram.com/minevva._">
-         <img src="Instagram-icon.png" alt="Instagram">
-<!--          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/instagram"/></a>  -->
+         <img alt="Instagram" title="Let's connect" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
    </p>
 
 ---
