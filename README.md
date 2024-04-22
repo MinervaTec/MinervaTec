@@ -5,13 +5,12 @@
 
 As a full-stack developer, specializing in building coding projects from the ground up. My passion lies in creating innovative and user-centric mobile applications for both iOS and Android platforms.With expertise in both front-end and back-end development. I am dedicated to staying updated with emerging technologies and best practices to remain at the forefront of the rapidly evolving mobile development landscape. Furthermore, I am committed to collaboration, contributing to open-source projects, and nurturing a culture of learning and innovation within the development community.
 
----
-
-### Let's connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/minevva._)
 
+
+---
 
 ### 🧰 Languages and Tools
 
