@@ -8,14 +8,6 @@ As a full-stack developer, specializing in building coding projects from the gro
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/minevva._)
-   <p align="left">
-      <a href="https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281">
-          <img alt="LinkedIn" title="Let's connect" src="https://www.linkedin.com/in/lehlohonolo-mokhachane-342275281color=%23E05D44&label=LinkedIn&logo=linkedI&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.instagram.com/minevva._">
-         <img alt="Instagram" title="Instagram" src="https://www.instagram.com/minevva._/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      
-   </p>
-
 
 ---
 
