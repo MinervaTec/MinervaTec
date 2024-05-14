@@ -34,3 +34,7 @@ As a full-stack developer, specializing in building coding projects from the gro
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinervaTec&show_icons=true&locale=en&layout=compact" alt="MinervaTec" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MinervaTec&show_icons=true&locale=en" alt="MinervaTec" /></p>
+
+
+#### **Visitor Count:**
+ ![Visitor Count](https://profile-counter.glitch.me/{Sphe-Manuel}/count.svg)
