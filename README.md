@@ -37,4 +37,4 @@ As a full-stack developer, specializing in building coding projects from the gro
 
 
 #### **Visitor Count:**
- ![Visitor Count](https://profile-counter.glitch.me/{Sphe-Manuel}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{MinervaTec}/count.svg)
