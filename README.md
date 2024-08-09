@@ -1,4 +1,4 @@
-# MinervaTec
+# MinervaTech
 
 **`Woman of great wisdom`**
 
