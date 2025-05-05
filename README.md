@@ -1,7 +1,7 @@
 # MinervaTech
 kkk
 **`Woman of great wisdom`**
-
+ljlk,n.,k
 As a full-stack developer, specializing in both greenfields and brownfields (building coding projects from the ground up and working with existing code). My passion lies in creating innovative and user-centric mobile applications for both iOS and Android platforms.With expertise in both front-end and back-end development. I am dedicated to staying updated with emerging technologies and best practices to remain at the forefront of the rapidly evolving mobile development landscape. Furthermore, I am committed to collaboration, contributing to open-source projects, and nurturing a culture of learning and innovation within the development community.
 
 
